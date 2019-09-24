@@ -1,0 +1,4 @@
+node_modules/
+marcador.txt
+package-lock.json
+server.log

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/cristianoaf81/NetBeansProjects/node-web-server/package.json</file>
+            <file>file:/home/cristianoaf81/NetBeansProjects/node-web-server/views/about.hbs</file>
+            <file>file:/home/cristianoaf81/NetBeansProjects/node-web-server/.gitignore</file>
+            <file>file:/home/cristianoaf81/NetBeansProjects/node-web-server/views/partials/header.hbs</file>
+            <file>file:/home/cristianoaf81/NetBeansProjects/node-web-server/views/partials/footer.hbs</file>
+            <file>file:/home/cristianoaf81/NetBeansProjects/node-web-server/views/maintenance.hbs</file>
+            <file>file:/home/cristianoaf81/NetBeansProjects/node-web-server/server.js</file>
+            <file>file:/home/cristianoaf81/NetBeansProjects/node-web-server/views/home.hbs</file>
+            <file>file:/home/cristianoaf81/NetBeansProjects/node-web-server/server.log</file>
+            <file>file:/home/cristianoaf81/NetBeansProjects/node-web-server/marcador.txt</file>
+        </group>
+    </open-files>
+</project-private>
