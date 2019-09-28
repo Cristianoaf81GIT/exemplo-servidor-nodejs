@@ -5,7 +5,8 @@ const hbs = require('hbs');
 const fs = require('fs');
 const protocol = 'http://';
 const host = '127.0.0.1';
-const port = 3000;
+// const port = 3000; original
+const port = process.env.PORT || 3000;
 var app = express();
 
 hbs.registerPartials(__dirname + '/views/partials');
@@ -21,7 +22,8 @@ hbs.registerHelper('screamIt', (text) => {
 });
 
 app.listen(port, host, ()=>{
-    console.log(protocol+host+':'+port);
+    //console.log(protocol+host+':'+port);
+    console.log(`Servidor em ${port}`);
     console.log('CTRL+C para parar!');
 });
 
